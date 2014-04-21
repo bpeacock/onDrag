@@ -29,8 +29,7 @@ Drag.prototype = {
     },
     scroll: function() {
 
-    },
-    clone/ghosting/placeholder
+    }
 };
 
 module.exports = Drag;
